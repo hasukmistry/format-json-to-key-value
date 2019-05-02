@@ -1,0 +1,14 @@
+{
+    "name": "hmistry/format-json-to-key-value",
+    "description": "Formates given json response to key value combination to save it for future reference",
+    "type": "project",
+    "require": {
+        "guzzlehttp/guzzle": "^6.3"
+    },
+    "authors": [
+        {
+            "name": "Hasmukh Mistry",
+            "email": "hasmukhmistry137@gmail.com"
+        }
+    ]
+}
