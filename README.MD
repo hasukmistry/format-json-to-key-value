@@ -6,7 +6,7 @@ This program will extract key value pairs from given json. It has capability to 
 
 I was working on wordpress project with rest api enabled. And Wordpress takes too much time to generate api response. Ideal time for generating api response should be around **200ms**.
 
-I was looking for a way to optimize this and make rest apis to work faster. This is how I got an idea to save json to database. Here, I isolated my function for extracting key value pairs for any given json api.
+I was looking for a way to optimize this and make it faster. This is how I got an idea to save json to database. Here, I isolated my function for extracting key value pairs for any given json api.
 
 I will be more than happy to resolve issues regarding this.
 
