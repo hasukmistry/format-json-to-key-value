@@ -52,3 +52,7 @@ Run following command from cli,
 `php -S localhost:8080`
 
 Navigate to `http://localhost:8080` from your browser.
+
+# Json-to-sql?
+
+Find out more: https://github.com/hasukmistry/json-to-sql
